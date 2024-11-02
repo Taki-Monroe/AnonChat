@@ -189,4 +189,4 @@ Contributions are welcome! Please open an issue or create a pull request. Be sur
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Taki-Monroe/AnonChat/blob/main/LICENSE) file for details.
